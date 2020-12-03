@@ -26,3 +26,4 @@ def get_num_of_valid_pass_TCAS(fileName):
             count += 1
     f.close()
     return count
+
